@@ -1,0 +1,5 @@
+@import url("../__logotype/header__logotype.css");
+
+.header__logo {
+  max-width: 170px;
+}

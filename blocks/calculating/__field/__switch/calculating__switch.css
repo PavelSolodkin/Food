@@ -1,0 +1,9 @@
+.calculating__switch {
+  content: "";
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  display: block;
+  width: 16px;
+  height: 16px;
+}

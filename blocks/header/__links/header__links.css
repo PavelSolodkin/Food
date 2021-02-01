@@ -1,0 +1,6 @@
+@import url("../__link/header__link.css");
+
+.header__links {
+  display: flex;
+  align-items: center;
+}

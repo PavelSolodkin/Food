@@ -1,0 +1,9 @@
+@import url("../header/__left-block/header__left-block.css");
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 150px;
+  padding: 0 100px;
+}

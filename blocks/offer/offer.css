@@ -1,0 +1,11 @@
+@import url("./__bg/offer__bg.css");
+@import url("./__text/offer__text.css");
+@import url("./__action/offer__action.css");
+@import url("./__advantages/offer__advantages.css");
+@import url("./__slider/offer__slider.css");
+@import url(".//__container/offer__container.css");
+
+.offer {
+  padding: 70px 0 100px 0;
+  position: relative;
+}

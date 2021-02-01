@@ -1,0 +1,8 @@
+@import url("./__field/calculating__field.css");
+@import url("./__title/calculating__title.css");
+
+.calculating {
+  padding: 50px 0;
+  max-width: 1200px;
+  margin: 0 auto;
+}

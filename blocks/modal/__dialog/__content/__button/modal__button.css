@@ -1,0 +1,21 @@
+.modal__button {
+  width: 280px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #303030;
+  color: #fff;
+  border: none;
+  font-size: 18px;
+  font-weight: 700;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: 0.3s all;
+  outline: 0;
+  margin: auto;
+}
+
+.modal__button:hover {
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+}
