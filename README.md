@@ -27,4 +27,4 @@ HTML; CSS (flex, grid); BEM; JS (ES5 / ES6); PHP; JSON; Webpack;
 - npx webpack
 - npx json-server original.json
 
-### Link
+### Link https://pavelsolodkin.github.io/Food/
