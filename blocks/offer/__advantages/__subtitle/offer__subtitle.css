@@ -1,0 +1,8 @@
+.offer__subtitle {
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 20px;
+}
+.offer__subtitle:first-child {
+  margin-top: 70px;
+}

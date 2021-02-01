@@ -1,0 +1,6 @@
+@import url("./__content/modal__content.css");
+
+.modal__dialog {
+  max-width: 500px;
+  margin: 40px auto;
+}

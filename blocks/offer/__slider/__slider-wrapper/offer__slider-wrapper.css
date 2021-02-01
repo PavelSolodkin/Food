@@ -1,0 +1,8 @@
+@import url("./__slider-inner/offer__slider-inner.css");
+
+.offer__slider-wrapper {
+  width: 100%;
+  margin-top: 15px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}

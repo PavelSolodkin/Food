@@ -1,0 +1,10 @@
+@import url("./__image/order__image.css");
+@import url("./__input/order__input.css");
+
+.order__form {
+  margin-top: 70px;
+  padding: 0 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

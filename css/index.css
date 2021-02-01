@@ -1,0 +1,64 @@
+@import url("../vendor/normalize.css");
+@import url("../vendor/fonts.css");
+
+@import url("../blocks/btn/btn.css");
+@import url("../blocks/btn/_type/btn_type_dark.css");
+@import url("../blocks/btn/_type/btn_type_min.css");
+@import url("../blocks/btn/_type/btn_type_white.css");
+
+@import url("../blocks/header/header.css");
+
+@import url("../blocks/sidepanel/sidepanel.css");
+
+@import url("../blocks/preview/preview.css");
+@import url("../blocks/preview/tabcontainer/tabheader/__items/__item/_type/tabheader__item_active.css");
+
+@import url("../blocks/divider/divider.css");
+
+@import url("../blocks/offer/offer.css");
+
+@import url("../blocks/calculating/calculating.css");
+@import url("../blocks/calculating/__field/__choose/__choose-item/_type/calculating__choose-item_type_active.css");
+@import url("../blocks/calculating/__field/__choose/_type/calculating__choose_type_big.css");
+@import url("../blocks/calculating/__field/__choose/_type/calculating__choose_type_medium.css");
+
+@import url("../blocks/menu/menu.css");
+
+@import url("../blocks/order/order.css");
+
+@import url("../blocks/promotion/promotion.css");
+
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__container/__social/__link/_type/footer__link_type_right.css");
+
+@import url("../blocks/modal/modal.css");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+@keyframes fade {
+  from {
+    opacity: 0.1;
+  }
+  to {
+    opacity: 1;
+  }
+}

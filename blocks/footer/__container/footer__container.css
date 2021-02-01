@@ -1,0 +1,10 @@
+@import url("./__social/footer__social.css");
+
+.footer__container {
+  max-width: 1200px;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 0 auto;
+}

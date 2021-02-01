@@ -1,0 +1,7 @@
+@import url("./__description/tabcontent__description.css");
+@import url("./__image/tabcontent__image.css");
+
+.tabcontent {
+  width: 850px;
+  position: relative;
+}

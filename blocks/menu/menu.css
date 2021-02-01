@@ -1,0 +1,6 @@
+@import url("./__field/menu__field.css");
+@import url("./__title/menu__title.css");
+
+.menu {
+  padding: 40px 0 50px 0;
+}

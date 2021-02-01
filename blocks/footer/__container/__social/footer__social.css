@@ -1,0 +1,7 @@
+@import url("./__link/footer__link.css");
+@import url("./__subtitle/footer__subtitle.css");
+
+.footer__social {
+  display: flex;
+  flex-direction: column;
+}

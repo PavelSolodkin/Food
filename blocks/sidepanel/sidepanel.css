@@ -1,0 +1,15 @@
+@import url("../sidepanel/__text/sidepanel__text.css");
+@import url("../sidepanel/__divider/sidepanel__divider.css");
+@import url("../sidepanel/__icon/sidepanel__icon.css");
+
+.sidepanel {
+  position: fixed;
+  left: 60px;
+  top: 240px;
+  height: 400px;
+  width: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}

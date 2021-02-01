@@ -1,0 +1,6 @@
+@import url("./__description/promotion__description.css");
+@import url("./__title/promotion__title.css");
+
+.promotion__text {
+  width: 50%;
+}

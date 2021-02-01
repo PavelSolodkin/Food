@@ -1,0 +1,7 @@
+@import url("../__items/__item/tabheader__item.css");
+
+.tabheader__items {
+  margin-top: 35px;
+  padding-left: 26px;
+  border-left: 1px solid #000;
+}

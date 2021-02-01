@@ -1,0 +1,7 @@
+@import url("./__clarification/offerr__clarification.css");
+@import url("./__subtitle/offer__subtitle.css");
+
+.offer__advantages {
+  width: 330px;
+  margin-top: 50px;
+}

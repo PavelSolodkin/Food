@@ -1,0 +1,8 @@
+@import url("./__choose-item/calculating__choose-item.css");
+
+.calculating__choose {
+  position: relative;
+  display: flex;
+  margin-top: 30px;
+  justify-content: center;
+}

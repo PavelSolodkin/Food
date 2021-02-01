@@ -1,0 +1,11 @@
+.promotion__description {
+  margin-top: 40px;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 300;
+}
+
+.promotion__description span {
+  font-weight: 700;
+  font-size: 26px;
+}
