@@ -1,0 +1,7 @@
+@import url("./__slide/offer__slide.css");
+
+.offer__slider-inner {
+  width: 400%;
+  display: flex;
+  transition: all 0.5s ease 0s;
+}

@@ -1,0 +1,6 @@
+@import url("./__title/timer__title.css");
+@import url("./__items/timer__items.css");
+
+.timer {
+  width: 50%;
+}

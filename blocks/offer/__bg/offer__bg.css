@@ -1,0 +1,8 @@
+.offer__bg {
+  position: absolute;
+  width: 1109px;
+  height: 780px;
+  background: rgba(243, 255, 222, 0.45);
+  z-index: -1;
+  top: 50px;
+}

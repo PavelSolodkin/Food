@@ -1,0 +1,8 @@
+.calculating__result {
+  margin-left: 50px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.calculating__result span {
+  font-size: 42px;
+}

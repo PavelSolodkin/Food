@@ -1,0 +1,8 @@
+@import url("./__title/preview__title.css");
+@import url("./__bg/preview__bg.css");
+@import url("./tabcontainer/tabcontainer.css");
+
+.preview {
+  padding: 28px 0 100px 0;
+  position: relative;
+}

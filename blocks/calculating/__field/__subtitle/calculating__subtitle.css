@@ -1,0 +1,9 @@
+.calculating__subtitle {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+.calculating__subtitle:first-child {
+  margin-top: 0;
+}

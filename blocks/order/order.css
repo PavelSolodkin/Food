@@ -1,0 +1,8 @@
+@import url("./__form/order__form.css");
+@import url("./__title/order__title.css");
+
+.order {
+  padding-bottom: 80px;
+  max-width: 1200px;
+  margin: 0 auto;
+}

@@ -1,0 +1,11 @@
+@import url("./__text/promotion__text.css");
+@import url("./timer/timer\ .css");
+
+.promotion {
+  padding: 70px 0 140px 0;
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}

@@ -1,0 +1,8 @@
+@import url("../tabheader/__items/tabheader__items.css");
+@import url("../tabheader/__title/tabheader__title.css");
+
+.tabheader {
+  width: 280px;
+  padding: 35px 30px;
+  background-color: #fff;
+}

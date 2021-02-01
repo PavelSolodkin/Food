@@ -1,0 +1,12 @@
+@import url("./__divider/calculating__divider.css");
+@import url("./__subtitle/calculating__subtitle.css");
+@import url("./__choose/calculating__choose.css");
+@import url("./__total/calculating__total.css");
+@import url("./__switch/calculating__switch.css");
+
+.calculating__field {
+  width: 100%;
+  margin-top: 50px;
+  background: rgba(146, 242, 255, 0.15);
+  padding: 30px 0 40px 0;
+}

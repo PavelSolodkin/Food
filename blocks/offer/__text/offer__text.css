@@ -1,0 +1,6 @@
+@import url("./__description/offer__description.css");
+@import url("./__title/offer__title.css");
+
+.offer__text {
+  width: 580px;
+}

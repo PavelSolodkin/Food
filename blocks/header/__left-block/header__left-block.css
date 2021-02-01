@@ -1,0 +1,8 @@
+@import url("../__links/header__links.css");
+@import url("../__logo/header__logo.css");
+
+.header__left-block {
+  display: flex;
+  justify-content: space-between;
+  min-width: 550px;
+}
